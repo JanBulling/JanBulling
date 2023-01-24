@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a view fun projects beside university**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://jan-bulling.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://jan-bulling.com/)
 
 - 💬 Ask me about **react, next.js, mobile, AI, ...**
 
